@@ -1,5 +1,8 @@
 # DELHI METRO 
 
+# Outlook Image:
+
+![Outlook_Metroapp](https://github.com/maicodee/METRO/assets/68491981/59f2b39b-93fc-4357-a915-7e2df1287cde)
 
 The Java program allows users to input the source station and destination station of the Delhi Metro. It then calculates and displays the fare for the journey and the shortest metro route to reach the destination. Additionally, the program includes a user-friendly metro map to help commuters navigate the metro system more efficiently.
 
